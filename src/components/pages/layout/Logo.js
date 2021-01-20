@@ -1,9 +1,12 @@
 import React from "react";
+import logo from "../layout/logo.jpg"
+import  "./styles.css";
 
 const Logo=()=>{
     return(
+        // <logo/>
         // <h1>as</h1>
-        <img src={'real-estate-logo-design.jpg'}></img>
+        <img className="logoImage" src={logo}></img>
     );
 }
 export default Logo;

@@ -8,7 +8,7 @@ import Navbar from "./components/pages/layout/Navbar";
 function App() {
   return (
     <div className="App">
-      <h1>app main page</h1>
+      {/* <h1>app main page</h1> */}
       <Navbar/>
       <Home></Home>
       <Aboutus />

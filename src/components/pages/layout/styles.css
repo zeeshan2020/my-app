@@ -1,0 +1,9 @@
+.logoImage{
+    height: 50px;
+    width: 80px;
+}
+.navBtn{
+    border: red 1px solid;
+    padding-left: 20px;
+    /* height: 300px; */
+}
